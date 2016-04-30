@@ -234,3 +234,4 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/Mpc.MaintenanceHist/src/Mpc.MaintenanceHist/wwwroot/lib
